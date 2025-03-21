@@ -33,14 +33,14 @@ To run this app locally, follow these steps:
 
 ### Installation
 
-1. Clone this repository:
+1. Clone this repository under Xcode with this link directly or under command line/terminal:
     ```bash
     git clone <repository-url>
     ```
 
-2. Navigate to the project directory:
+2. Or if downloaded then under downloads folder navigate to the project directory:
     ```bash
-    cd BrainBlast_Submission
+    cd your_mac_name/Downloads/SAT_Trivia_Duel
     ```
 
 3. Open the Xcode project:
