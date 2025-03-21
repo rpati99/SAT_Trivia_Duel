@@ -11,7 +11,7 @@ import SwiftUI
 struct BrainBlast_SubmissionApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            RootView()
         }
     }
 }
